@@ -1,6 +1,6 @@
 [ 
  {
-"title":"Escalação do Corinthians",
+    "title":"Escalação do Corinthians",
     "description":"Raul Gustavo treina, e Vítor Pereira tem dúvidas contra o Flamengo",
     "image":"https://douglasdr7.github.io/Soccer-news-API/images/1.jpg",
     "link":"https://ge.globo.com/futebol/times/corinthians/noticia/2022/08/01/escalacao-do-corinthians-raul-gustavo-treina-e-vitor-pereira-tem-duvidas-contra-o-flamengo.ghtml",
@@ -11,7 +11,7 @@
     "image":"https://douglasdr7.github.io/Soccer-news-API/images/2.jpg",
     "link":"https://ge.globo.com/sp/tem-esporte/futebol/times/mirassol/noticia/2022/08/01/artilheiro-do-brasil-no-primeiro-semestre-de-2022-e-inscrito-pelo-mirassol-e-vai-jogar-a-serie-c.ghtml",
   },
-{
+  {
     "title":"Escalação do Atlético-GO",
     "description":"time pode ter até sete mudanças contra o Nacional, em Montevidéu",
     "image":"https://douglasdr7.github.io/Soccer-news-API/images/3.jpg",
